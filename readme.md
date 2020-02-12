@@ -13,8 +13,9 @@ Mandatory functions:
 - It must be possible to change the parameters of the Julia set only with the mouse movement.
 - The mouse wheel zooms in and out, almost infinite.
 
-Bonus functions:
+Realized bonus:
 - More than 3 fractals
+- Iterations can be changed in real time
 - The zoom follow the actual mouse position
 - Make the color range shift
 - Separate windows with fractal information
