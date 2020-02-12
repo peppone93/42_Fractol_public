@@ -14,7 +14,7 @@ Mandatory functions:
 - The mouse wheel zooms in and out, almost infinite.
 
 Bonus functions:
-- More that 3 fractals
+- More than 3 fractals
 - The zoom follow the actual mouse position
 - Make the color range shift
 - Separate windows with fractal information
