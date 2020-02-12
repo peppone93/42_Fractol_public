@@ -7,17 +7,16 @@ optimization in computer graphics.
 __NOTE:__
 The whole project was realized using the school's graphic library: MinilibX.
 This library contains only basic drawing functions: open a window, lit a pixel and manage events.
-Everything else must be coded by students. (ex. multithreading, zoom, pixel coloring...).
+Everything else has to be coded by students. (ex. multithreading, zoom, pixel coloring...).
 
 Mandatory functions:
-- It must be possible to change the parameters of the Julia set only with the mouse movement.
-- The mouse wheel zooms in and out, almost infinite.
+- It must be possible to change the parameters of the Julia set only by mouse movement.
+- The mouse wheel zooms in and out, almost infinitely.
 
 Realized bonus:
 - More than 3 fractals
 - Iterations can be changed in real time
-- The zoom follow the actual mouse position
-- Make the color range shift
+- The zoom follows the actual mouse position
 - Separate windows with fractal information
 - Multi-threading implementation (realized with the C library pthread.h)
 
@@ -36,4 +35,4 @@ Realized bonus:
 
 
 
-_If you are interested to the complete code, please do not hesitate to contact me._
+_If you are interested in the complete code, please do not hesitate to contact me._
