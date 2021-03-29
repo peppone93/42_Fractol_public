@@ -1,4 +1,4 @@
-FRACTOL
+# Fractol
 
 This project’s goal is to create a small fractal exploration program.
 This project allows to discover/use the mathematical notion of complex numbers and to take a peek at the concept of
